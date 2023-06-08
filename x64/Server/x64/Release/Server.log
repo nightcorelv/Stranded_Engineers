@@ -1,0 +1,27 @@
+﻿  BaseBallBat.cpp
+  CircularBuffer.cpp
+  Component.cpp
+  DirectXMathHelper.cpp
+  GetPlayerData.cpp
+  Grenade.cpp
+  Item.cpp
+  KingOfTheHillMiniGame.cpp
+C:\Users\liyey\Desktop\stort\Stort_spelprojekt\Server\KingOfTheHillMiniGame.cpp(73,26): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\liyey\Desktop\stort\Stort_spelprojekt\Server\KingOfTheHillMiniGame.cpp(74,27): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  PhysicsComponent.cpp
+  PhysicsWorld.cpp
+  Player.cpp
+  Potion.cpp
+  RandomizeSpawn.cpp
+  Server.cpp
+  GameObject.cpp
+  ServerGravField.cpp
+  ServerPlanet.cpp
+  SpawnComponent.cpp
+C:\Users\liyey\Desktop\stort\Stort_spelprojekt\Server\SpawnComponent.cpp(100,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TestObj.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 744 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Server.vcxproj -> C:\Users\liyey\Desktop\stort\Stort_spelprojekt\x64\Release\Server.exe

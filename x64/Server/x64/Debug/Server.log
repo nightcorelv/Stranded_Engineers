@@ -1,0 +1,13 @@
+﻿  BaseBallBat.cpp
+  CircularBuffer.cpp
+  GetPlayerData.cpp
+  KingOfTheHillMiniGame.cpp
+C:\Users\liyey\Desktop\stort\Stort_spelprojekt\Server\KingOfTheHillMiniGame.cpp(73,26): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\liyey\Desktop\stort\Stort_spelprojekt\Server\KingOfTheHillMiniGame.cpp(74,27): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  Player.cpp
+  RandomizeSpawn.cpp
+  Server.cpp
+  SpawnComponent.cpp
+C:\Users\liyey\Desktop\stort\Stort_spelprojekt\Server\SpawnComponent.cpp(100,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Server.vcxproj -> C:\Users\liyey\Desktop\stort\Stort_spelprojekt\x64\Debug\Server.exe
